@@ -250,6 +250,24 @@ textarea {
 
 
 /*
-  custom Styles are below here
+  Custom Styles are below here
 */
 
+header {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 70px 0 70px;
+}
+
+.header_navigation {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact {
+  display: flex;
+}
+
+.contact span {
+  display: flex;
+}
